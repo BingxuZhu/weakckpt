@@ -14,7 +14,7 @@ cd weakckpt/
 pip install -r requirement.txt
 
 # Test with a simple DeepSpeed code.
- 
+deepspeed scripts/run_weakckpt_ds.py --deepspeed
 ```
 
 ### Linking with DeepSpeed
