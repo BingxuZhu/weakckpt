@@ -14,7 +14,7 @@ cd weakckpt/
 pip install -r requirement.txt
 
 # Test with a simple DeepSpeed code.
-python datastates/tests/test_datastates_llm.py  
+ 
 ```
 
 ### Linking with DeepSpeed
