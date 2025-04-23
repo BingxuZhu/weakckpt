@@ -2,7 +2,7 @@
 
 Weak consistency checkpoint, which is suitable for classical DNN models, provides a stride saving mechanism and a multi-priority checkpoint recovery mechanism. By improving the efficiency of saving checkpoint parameters and reducing the recovery time caused by training interruption, the overall end-to-end training speed is improved.
 
-Since our research topic has not been published yet, only part of the core code is shown.
+Since our research has not been published yet, only part of the core code is shown.
 
 ...to be continued
 
